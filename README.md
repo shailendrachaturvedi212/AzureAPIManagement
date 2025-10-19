@@ -11,6 +11,46 @@
 
 <img width="1897" height="996" alt="image" src="https://github.com/user-attachments/assets/f87fec6d-c4ff-4470-a5f3-59175db8a896" />
 
+Applying API Calling Quota's
+
+<img width="1876" height="823" alt="image" src="https://github.com/user-attachments/assets/49bfb0c2-6ac1-4cfa-8450-c66ffb92b67c" />
+<img width="1243" height="681" alt="image" src="https://github.com/user-attachments/assets/a5c65f70-5b3b-4daf-bba1-9c694bae41a9" />
+
+Limiting API Caller IP
+
+<img width="1873" height="796" alt="image" src="https://github.com/user-attachments/assets/80a9f5b5-58e5-4463-a371-910924bc440e" />
+<img width="1375" height="617" alt="image" src="https://github.com/user-attachments/assets/71b34f11-031b-4d1c-89ad-b4fdcc81c24b" />
+
+After WhiteListing API
+
+<img width="1535" height="668" alt="image" src="https://github.com/user-attachments/assets/9c8f1771-7ca2-4f82-b235-89a86b6d5c7e" />
+<img width="1397" height="852" alt="image" src="https://github.com/user-attachments/assets/f0d42f64-7cf5-4809-b683-67adc2a066bc" />
+
+Converting Json to XML Response
+
+<img width="1892" height="910" alt="image" src="https://github.com/user-attachments/assets/53745c7f-59fb-453a-a8ec-414024f2ec43" />
+<img width="1432" height="826" alt="image" src="https://github.com/user-attachments/assets/f0b43bdf-b281-4197-8ccc-566283ff684b" />
+
+Checking HTTP Header Request
+
+<img width="1857" height="820" alt="image" src="https://github.com/user-attachments/assets/3f8977e8-b17d-46e2-bca0-a4992ff626bb" />
+
+<img width="1397" height="716" alt="image" src="https://github.com/user-attachments/assets/92c523d2-e60e-48c5-a988-6b4c7936742d" />
+
+After Implementing Header while making call via postman
+
+<img width="1368" height="842" alt="image" src="https://github.com/user-attachments/assets/c2889a6c-06d6-41cc-aaa4-de35cbd4b2f3" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
