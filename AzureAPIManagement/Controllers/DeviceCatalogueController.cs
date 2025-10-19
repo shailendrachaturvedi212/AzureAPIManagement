@@ -1,5 +1,6 @@
 ﻿using AzureAPIManagement;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Primitives;
 
 namespace DeviceCatalogue.Controllers
 {
@@ -22,9 +23,19 @@ namespace DeviceCatalogue.Controllers
         }
 
         [HttpGet(Name = "GetCatalogue")]
-        public IEnumerable<Device> GetCatalogue()
+        public IActionResult GetCatalogue()
         {
-            return catalogue;
+            if (!Request.Headers.TryGetValue("SecurityToken", out StringValues headerValue))
+            {
+                return Unauthorized("APIM Token missing!");
+            }
+
+            if (headerValue.FirstOrDefault() != "pass1234")
+            {
+                return Unauthorized("APIM Token missing!");
+            }
+
+            return Ok(catalogue);
         }
 
         [HttpGet("{deviceId}", Name = "GetDevice")]

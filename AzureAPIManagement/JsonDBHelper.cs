@@ -5,7 +5,7 @@ namespace AzureAPIManagement
 {
     public class JsonDBHelper
     {
-       private string _jsonFile = "catalogue.json";
+       private string _jsonFile = "Catalogue.json";
 
             public JsonDBHelper()
             {
